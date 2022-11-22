@@ -1,4 +1,4 @@
-export default [
+export const Data = [
   {
     id: 1,
     name: 'Bertie Yates',
